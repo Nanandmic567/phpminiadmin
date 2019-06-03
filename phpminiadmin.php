@@ -14,9 +14,9 @@ $ACCESS_PWD='TeerawathICT_2001'; #!!!IMPORTANT!!! this is script access password
 #DEFAULT db connection settings
 # --- WARNING! --- if you set defaults - it's recommended to set $ACCESS_PWD to protect your db!
 $DBDEF=array(
-'user'=>"",#required
-'pwd'=>"", #required
-'db'=>"",  #optional, default DB
+'user'=>"Nanandmic567",#required
+'pwd'=>"TWBBData_01", #required
+'db'=>"DB",  #optional, default DB
 'host'=>"",#optional
 'port'=>"",#optional
 'chset'=>"utf8",#optional, default charset
